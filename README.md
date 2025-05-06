@@ -394,10 +394,6 @@ bun run dev
 - Follow PascalCase for types, interfaces, and Tool constants
 - Use camelCase for variables and functions
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
