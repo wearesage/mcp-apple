@@ -2,9 +2,13 @@
 
 A collection of tools that allow AI assistants like Claude to interact with Apple applications and services through the Model Context Protocol (MCP).
 
+<a href="https://glama.ai/mcp/servers/@wearesage/mcp-apple">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@wearesage/mcp-apple/badge" alt="Apple Tools MCP server" />
+</a>
+
 ## Overview
 
-This package provides MCP tools for interacting with various Apple applications and services, including:
+This package provides MCP tools for interacting with various Apple applications and services, including: 
 
 - **Contacts**: Search and retrieve contacts from Apple Contacts app
 - **Notes**: Search, retrieve, create notes, and list folders in Apple Notes app
